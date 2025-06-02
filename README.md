@@ -6,7 +6,7 @@ A simple and fun Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## 🎮 Live Demo
 
-👉 
+👉 https://gbindubhargavi.github.io/Rock-Paper-Scissors/
 
 ---
 
